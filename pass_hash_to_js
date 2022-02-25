@@ -1,0 +1,1 @@
+$.methodName($(JSON.parse('<%= raw(@hash_or_obj.to_json)%>'));
